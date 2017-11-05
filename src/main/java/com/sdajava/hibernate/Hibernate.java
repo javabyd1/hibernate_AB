@@ -1,4 +1,4 @@
-package com.sdajava;
+package com.sdajava.hibernate;
 
 /**
  * Created by artur on 05.11.2017.
