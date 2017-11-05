@@ -28,6 +28,7 @@ public class BooksEntity {
     @Column
     private Integer onStock;
     @Id
+//    @GeneratedValue(strategy = GenerationType)
     @Column
     private int id;
 

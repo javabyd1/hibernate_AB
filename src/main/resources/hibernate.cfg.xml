@@ -28,6 +28,7 @@
         </property>
         <property name="hibernate.hbm2ddl.auto">update</property>
         <mapping class="com.sdajava.hibernate.entity.BooksEntity"/>
+        <mapping class="com.sdajava.hibernate.entity.CustomersEnity"/>
     </session-factory>
 </hibernate-configuration>
 
